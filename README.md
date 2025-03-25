@@ -1,6 +1,9 @@
 # banco_de_dados_tf
-marcelo Luis dos Santos Raimundo 6324637
-codigo do tf
+marcelo Luis dos Santos Raimundo
+RA:6324637
+
+codigo do tf:
+
 LIVRO [color: #c2915d] {
 	id_livro int pk
 	titulo varchar
